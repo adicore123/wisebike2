@@ -1,0 +1,12 @@
+{
+  "name": "wisebike",
+  "version": "1.0.0",
+  "description": "WiseBike - מעבדת תיקונים לאופניים",
+  "scripts": {
+    "dev": "echo 'No dev server configured'",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": ["bike", "repair", "bicycle"],
+  "author": "WiseBike",
+  "license": "MIT"
+}
